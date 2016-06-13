@@ -4,7 +4,7 @@ Most problems are from *Universidad de Valladolid* (UVA), which the website (as 
 
 Some notes are:
 
-* I try to comment all the basic steps of my codes, but since there is a lot of old codes, some of them might not be commented yet (but comments are on the way). The ones I've found harder to solve I tend to write an entire explanation by the beginning of the code, in order to remember later;
+* I try to comment all the basic steps of my codes, but since there is a lot of old codes, some of them might not be commented. The ones I've found harder to solve I tend to write an entire explanation by the beginning of the code, in order to remember later;
 
 * My solutions, even though accepted, are not always the best solutions. They are meant to solve the problem within the specified time, but that is it;
 
